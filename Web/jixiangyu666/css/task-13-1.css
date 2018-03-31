@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #f5f5f5;
+}
+.header {
+  background: #F5F5F5;
+}
+.header .menu {
+  height: 10.27vw;
+  width: 100%;
+  background: #29BDE0;
+}
+.header .menu img {
+  height: 4.4vw;
+  margin-top: 2.7vw;
+  margin-left: 2.7vw;
+}
+.header .menu a {
+  font-size: 2vw;
+  color: #fff;
+  float: right;
+  margin-right: 4vw;
+  line-height: 10.27vw;
+}
+.header .main .head {
+  border: 0.15vw solid #d0d0d0;
+  border-radius: 0.3vw;
+  margin-top: 3vw;
+  height: 16.25vw;
+  background: #ffffff;
+  width: 90%;
+  margin-left: 4.86vw;
+}
+.header .main .head p {
+  font-size: 4.16vw;
+  color: #9A9A9A;
+  line-height: 16.25vw;
+}
+.header .main .head img {
+  height: 5.83vw;
+  position: relative;
+  float: right;
+  margin-top: -12vw;
+  margin-right: 3vw;
+}
+.header .main .game {
+  border: 0.15vw solid #d0d0d0;
+  border-radius: 0.3vw;
+  margin-top: 3.47vw;
+  height: 12.63vw;
+  background: #ffffff;
+  width: 90%;
+  margin-left: 4.86vw;
+  border-bottom: 0.3vw solid #fbb435;
+}
+.header .main .game p {
+  font-size: 4.16vw;
+  color: #fbb435;
+  line-height: 12.63vw;
+}
+.header .main .version {
+  background: #F5F5F5;
+}
+.header .main .version1 {
+  width: 90%;
+  height: 30.55vw;
+  background: #ffffff;
+  position: relative;
+  left: 4.8vw;
+  top: 0vw;
+  border: 0.15vw solid #d0d0d0;
+  border-top: 0;
+  border-bottom: 0;
+}
+.header .main .version2 {
+  height: 18.8vw;
+  width: 64.4vw;
+  background: #29BDE0;
+  position: relative;
+  left: 12vw;
+  top: 4vw;
+}
+.header .main .version2 a {
+  font-size: 4.16vw;
+  color: #ffffff;
+  line-height: 18.88vw;
+  margin-left: 40%;
+  position: relative;
+  top: -2vw;
+  text-decoration: none;
+}
+.header .main .user p {
+  font-size: 3vw;
+  color: #787878;
+  position: relative;
+  top: -7vw;
+  left: 11.88vw;
+}
+.header .main .user img {
+  margin: -193px 0px 156px 105%;
+}
+.header .main .version3 {
+  width: 90%;
+  height: 37.55vw;
+  background: #ffffff;
+  position: relative;
+  left: 4.8vw;
+  top: 0vw;
+  border: 0.15vw solid #d0d0d0;
+  border-top: 0;
+}
+.header .main .recent {
+  height: 5vw;
+  margin-top: -7vw;
+}
+.header .main .recent span {
+  display: block;
+  width: 3vw;
+  height: 3vw;
+  border: 0.1vw solid #aaaaaa;
+  border-radius: 50%;
+  float: left;
+  margin-right: 0.5vw;
+  margin-top: -1vw;
+}
+.header .main .recent span:hover {
+  background: #29BDE0;
+}
+.header .main .recent p {
+  display: block;
+  width: 14vw;
+  margin: auto;
+}

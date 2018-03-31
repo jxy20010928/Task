@@ -1,0 +1,424 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #FAFAFA !important;
+}
+.tip {
+	background: #FFFFFF;
+	padding: 0;
+}
+.contact{
+    height: 32px;
+    width: 100%;
+    margin: auto;
+    line-height: 32px;
+}
+.contact img {
+    margin-left: 1rem;
+}
+
+.contact a {
+    font-size: 1.4rem;
+    color: #29b078;
+}
+.contact a:hover{
+    color: #29B078;
+}
+
+.lead img{
+    position: relative;
+    left: 44em;
+    bottom: 21px;
+}
+.big{
+    background: #29B078;
+    height: 110px;
+    width: 100%;
+    opacity: 1;
+}
+.big p{
+    font-size: 15px;
+    float: right;
+    line-height: 100px;
+    margin-right: 125px;
+    margin-top: -4px;
+    position: relative;
+    top: 10px;
+
+}
+.big p:hover{
+    display: block;
+    border-bottom: 0.3rem solid #FFFFFF;
+}
+.big a{
+    color: #FFFFFF;
+}
+.big a:hover{
+    color: #FFFFFF;
+
+}
+.two img{
+	width: 100%;
+}
+.three{
+	margin-left: 170px;
+    margin-top: 14px;
+}
+.three p{
+	font-size: 15px;
+	position: relative;
+	top: 11px;
+}
+.three span{
+	font-size: 15px;
+    margin-left: 47px;
+    position: relative;
+    top: -21px;
+    color: #29B078;
+}
+.three a:hover{
+	color: #29B078;
+}
+.five{
+	height: 73px;
+    width: 250px;
+    background: #ffffff;
+    margin-left: 165px;
+    border: 1px solid #e5e5e5;
+}
+.five p{
+	padding-top: 25px;
+    padding-left: 90px;
+}
+.six{
+	height: 180px;
+    width: 811px;
+    margin-left: 440px;
+    margin-top: -75px;
+    border: 1px solid #e5e5e5;
+    background: #ffffff;
+}
+.six img{
+	float: left;
+}
+.six p{
+	padding-top: 40px;
+    font-size: 14px;
+    color: #999999;
+    line-height: 29px;
+}
+.seven{
+	background: #ffffff;
+    height: 500px;
+    width: 250px;
+    border: 1px solid #e5e5e5;
+    margin-left: 165px;
+    margin-top: -105px;
+}
+.seven li{
+	margin-top: 18px;
+	color: #f9a372;
+}
+.seven a{
+	color: #29B078;
+}
+.seven-2{
+	position: relative;
+    top: -85px;
+    left: 91px;
+    
+}
+.seven-2 a:hover{
+	background: orange;
+	color: #FFFFFF;
+}
+.eight{
+    background: #ffffff;
+    height: 177px;
+    width: 811px;
+    border: 1px solid;
+    border-color: #FFFFFF #E5E5E5;
+    margin-left: 440px;
+    margin-top: -397px;
+}
+.eight-1{
+    height: 177px;
+    width: 750px;
+    margin-left: 44px;
+    margin-top: 28px;
+}
+.eight p{
+    text-indent: 29px;
+    font-size: 16px;
+    color: #999999;
+    line-height: 34px;
+}
+.nine{
+    background: #ffffff;
+    height: 177px;
+    width: 811px;
+    border: 1px solid;
+    border-color: #FFFFFF #E5E5E5;
+    margin-left: 440px;
+    margin-top: -30px;
+}
+.nine-1{
+    height: 177px;
+    width: 750px;
+    margin-left: 44px;
+    margin-top: 28px;
+}
+.nine p{
+    text-indent: 29px;
+    font-size: 16px;
+    color: #999999;
+    line-height: 34px;
+}
+.tin{
+    background: #ffffff;
+    height: 177px;
+    width: 811px;
+    border: 1px solid;
+    border-color: #FFFFFF #E5E5E5;
+    margin-left: 440px;
+    margin-top: -30px;
+}
+.tin-1{
+    height: 177px;
+    width: 750px;
+    margin-left: 44px;
+    margin-top: 28px;
+}
+.tin p{
+    text-indent: 29px;
+    font-size: 16px;
+    color: #999999;
+    line-height: 34px;
+}
+.title{
+    background: #ffffff;
+    height: 177px;
+    width: 811px;
+    border: 1px solid;
+    border-color: #FFFFFF #E5E5E5;
+    margin-left: 440px;
+}
+.title-1{
+    height: 177px;
+    width: 750px;
+    margin-left: 44px;
+    margin-top: 28px;
+}
+.title p{
+    text-indent: 29px;
+    font-size: 16px;
+    color: #999999;
+    line-height: 34px;
+}
+.wrap{
+    background: #ffffff;
+    height: 177px;
+    width: 811px;
+    border: 1px solid;
+    border-color: #FFFFFF #E5E5E5 #E5E5E5;
+    margin-left: 440px;
+}
+.wrap-1{
+    height: 177px;
+    width: 750px;
+    margin-left: 44px;
+    margin-top: 28px;
+}
+.wrap p{
+    text-indent: 29px;
+    font-size: 16px;
+    color: #999999;
+    line-height: 34px;
+}
+.fade{
+    background: #ffffff;
+    height: 350px;
+    width: 811px;
+    border: 1px solid;
+    border-color: #FFFFFF #E5E5E5 #E5E5E5;
+    margin-left: 440px;
+}
+.fade-1{
+    height: 177px;
+    width: 750px;
+    margin-left: 44px;
+    margin-top: 28px;
+}
+.fade p{
+    text-indent: 29px;
+    font-size: 16px;
+    color: #999999;
+    line-height: 34px;
+}
+.main{
+	height:190px;
+	background: #29B078;
+	margin-top: 200px;
+}
+.main p{
+	margin-top: 7px;
+    font-size: 17px;
+    color: #ffffff !important;
+    padding: 36px 0px 0px 202px;
+}
+.faqs p{
+	margin: -118px 0px 0px 394px;
+}
+.faqs span{
+	margin-left: 35em;
+    font-size: 17px;
+    color: #fff;
+    position: relative;
+    top: 18px;
+}
+.main a{
+	color: #FFFFFF;
+}
+.main a:hover{
+	color: #FFFFFF;
+}
+.a p{
+	margin-top: 5px;
+}
+.b p{
+	margin-left: 559px;
+    margin-top: -105px;
+}
+.b span{
+	font-size: 17px;
+    color: #ffffff;
+    margin-left: 45em;
+    position: relative;
+    top: 3px;
+}
+.b img{
+	margin-left: 277px;
+    margin-top: -48px;
+}
+.c p{
+	margin-top: -161px;
+    margin-left: 907px;
+}
+.d{
+	height: 31px;
+	color: #FFFFFF;
+	background: #29B078;
+	border-top: 1px solid #FAFAFA;
+}
+@media (max-width: 768px){
+	body{
+		
+		width: 100%;
+	}
+	.vote{        
+		margin-left: 18px;
+		    width: 721px;
+	}
+	.pull-right{
+		margin-right: 2.4rem;
+	}
+	.three{
+    	font-size: 15px;
+		text-align: center;
+		margin-left: -44px;
+	}
+	.three span{
+		margin-left: 100px;
+	}
+	.five{
+		margin-left: 23rem;
+	}
+	.seven{
+		margin-left: 23rem;
+	}
+	.six{
+		width: 610px;
+    	position: relative;
+   		top: 50rem;
+   		left: -30rem;
+	}
+	.six p{
+		margin-top: -23px;
+	}
+	.eight{
+		width: 610px;
+    position: relative;
+    top: 602px;
+    left: -30rem;
+	}
+	.eight-1{
+		width: 530px;
+	}
+	.nine{
+		width: 610px;
+    position: relative;
+    top: 632px;
+    left: -30rem;
+	}
+	.nine-1{
+		width: 530px;
+	}
+	.tin{
+		height: 210px;
+		width: 610px;
+		position: relative;
+		top: 55rem;
+		left: -30rem;
+	}
+	.tin-1{
+		width: 530px;
+	}
+	.title{
+		height: 210px;
+		width: 610px;
+		position: relative;
+		top: 52rem;
+		left: -30rem;
+	}
+	.title-1{
+		width: 530px;
+	}
+	.wrap{
+		height: 230px;
+		width: 610px;
+		position: relative;
+		top: 52rem;
+		left: -30rem;
+	}
+	.wrap-1{
+		width: 530px;
+	}
+	.main{
+		margin-top: 70rem;
+	}
+	.main p{
+		margin-left: -160px;
+	}
+	.faqs p{
+		margin-left: 109px;
+	}
+	.faqs span{
+		margin-left: 26rem;
+	}
+	.b p{
+		margin-left: 230px;
+	}
+	.b span{
+		margin-left: 36rem;
+	}
+	.b img{
+		margin-left: 90px;
+	}
+	.c p{
+        float: right;
+        position: relative;
+        left: -60px;
+	}
+}

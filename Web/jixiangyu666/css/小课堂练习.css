@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.radio {
+  width: 500px;
+  height: 500px;
+  background: #29B078;
+}
+.radio p {
+  font-size: 3vw;
+}
+.radio img {
+  padding-left: 20vw;
+}

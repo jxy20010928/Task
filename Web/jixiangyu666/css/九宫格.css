@@ -1,0 +1,11 @@
+
+body{
+	width: 50%;
+}
+.box{
+	width: 30%;
+	padding-bottom: 30%;
+	background-color: yellow;
+	border-radius: 20px;
+	display: inline-block;
+}

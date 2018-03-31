@@ -1,0 +1,379 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #FAFAFA !important;
+	
+}
+.vote {
+	background: #FFFFFF;
+	padding: 0;
+}
+
+.contact{
+	height: 32px;
+    margin-left: 20px;
+    margin-right: 20px;
+    line-height: 32px;
+}
+.contact a{
+	color: #29B078;	
+	font-size: 1.4rem;
+}
+.contact img {
+	margin-left: 1rem;
+}
+.nav {
+	height: 10rem;
+	background: #29b078;
+	padding: 0;
+}
+
+.nav span {
+	display: block;
+	width: 8rem;
+	text-align: center;
+	height: 9.9rem;
+	margin-right: -3rem;
+}
+
+.nav span:hover {
+	display: block;
+	border-bottom: 0.3rem solid #FFFFFF;
+}
+
+.nav li {
+	float: left;
+	list-style: none;
+	font-size: 1.6rem;
+	color: #FFFFFF;
+	line-height: 10rem;
+	margin-left: 5.5rem;
+}
+
+.nav ul {
+	float: right;
+	margin-right: 3rem;
+}
+.nav-a {
+	padding: 0;
+	float: left;
+	margin-left: 30px;
+}
+
+.nav-a p {
+	font-size: 3.5rem;
+    color: #FFFFFF;
+    margin-top: 2.5rem;
+    margin-bottom: -0.2rem;
+    margin-left: 9px;
+}
+
+.nav-a a {
+	font-size: 0.8rem;
+	color: #FFFFFF;
+	letter-spacing: 0.25rem;
+}
+
+.nav-b {
+	padding: 0;
+	float: right;
+}
+
+.time {
+	padding: 0;
+	width: 100%;
+}
+.love {
+	padding: 0;
+	border-bottom: 0.1rem solid #AAAAAA;
+	line-height: 8rem;
+	font-size: 1.6rem;
+}
+.love a {
+	color: #29b078;
+}
+.vote-1 {
+	padding: 0;
+	height: 6rem;
+	border-bottom: 0.1rem solid #DADADA;
+}
+
+.vote-1 p {
+	line-height: 6rem;
+	font-size: 1.4rem;
+	color: #999999;
+}
+
+.vote-1 a {
+	padding: 0.5rem;
+	margin-left: 3rem;
+	color: #333333;
+	text-decoration: none;
+}
+
+.vote-1 a:hover {
+	background: #29b078;
+	color: #FFFFFF;
+}
+
+.three {
+	padding: 0;
+	line-height: 8rem;
+	font-size: 1.6rem;
+	border-bottom: 0.1rem solid #AAAAAA;
+	margin-bottom: 4.6rem;
+}
+
+.fovr{
+	margin-top: 4.6rem;
+	padding: 0;
+}
+
+.about {
+	padding-top: 2rem;
+	border: 0.1rem solid #eeeded;
+	height: 44.5rem;
+	background: #FFFFFF;
+}
+.veil {
+	width: 30.8rem;
+	height: 44.5rem;
+	background: #120e0b;
+	opacity: 0;
+	position: absolute;
+	padding: 8.5rem 4.3rem;
+	color: #FFFFFF;
+	font-size: 1.4rem;
+	transition:all 2s;
+	transform-origin: 50% 0;
+}
+
+.veil .veil-1 {
+	text-align: center;
+	margin-bottom: 3.5rem;
+}
+.aspect-2{
+	margin-top: 10px;
+}              
+.aspect-2:hover .veil {
+	transform: rotatey(360deg);
+	opacity: 0.8;
+}
+.about-1 {
+	padding-right: 1rem;
+	float: right;
+    margin-left: 157px;
+    margin-top: -142px;
+	
+}
+.aspect-1 {
+	margin-top: 4.6rem;
+	padding: 0; 
+}
+.bitted{
+	margin-top: 25px;
+}
+.bitted span {
+	display: block;
+	width: 50%;
+	height: 4rem;
+	border-top: 0.1rem solid #eeeded;
+}
+
+.left-part {
+	border-right: 0.1rem solid #eeeded;
+}
+
+.bitted p {
+	line-height: 4rem;
+	margin-left: 1rem;
+	font-size: 1.2rem;
+	color: #999999;
+	margin-bottom: 0;
+}
+
+.bitted img {
+	vertical-align: -0.3rem;
+	width: 1.8rem;
+	height: 1.8rem;
+	margin-left: 1.5rem;
+}
+
+.bitted a {
+	color: red;
+}
+.pay {
+	height: 10.6rem;
+	border-top: 0.1rem solid #eeeded;
+	border-bottom: 0.1rem solid #eeeded;
+	margin-top: 0.1rem;
+}
+
+.clear {
+	clear: both
+}
+
+.par-1 {
+	text-align: center;
+	width: 15.4rem;
+	border-right: 0.1rem solid #eeeded;
+	font-size: 1.2rem;
+	color: #999999;
+	line-height: 10.6rem;
+}
+
+.par-2 {
+	padding-left: 15.4rem;
+}
+
+.par-2 span {
+	height: 3.5rem;
+	border: 0.1rem solid #eeeded;
+	width: 186px;
+    margin-left: -1px;
+}
+
+.par-2 p {
+	line-height: 0.5rem;
+	margin-left: 1rem;
+	font-size: 1.2rem;
+}
+
+.par-2 a {
+	color: #333333;
+	margin-left: 7rem;
+}
+
+.par-3 {
+	font-size: 1.4rem;
+	text-align: left;
+	line-height: 4rem;
+	border-bottom: 0.1rem solid #eeeded;
+	padding-left: 1rem;
+}
+
+.par-3 a {
+	color: red;
+}
+
+.eight-2 {
+	line-height: 5.5rem;
+	font-size: 1.1rem;
+	color: #999999;
+}
+.aspect {
+	padding: 0;
+	line-height: 8rem;
+	font-size: 1.6rem;
+	border-bottom: 0.1rem solid #AAAAAA;
+	margin-bottom: 4.6rem;.
+}
+
+.ending {
+    margin: auto;
+    padding-top: 4rem;
+}
+
+.left-ending {
+    width: 37rem;
+    font-size: 1.4rem;
+}
+
+.left-ending p {
+    color: #ffffff;
+    margin-bottom: 7rem;
+}
+
+.left-ending a {
+    color: #FFFFFF;
+}
+
+.ending-1 {
+    width: 100%;
+    height: 17.5rem;
+    background: #29B078;
+}
+
+.centre-ending {
+    height: 11.4rem;
+    font-size: 1.4rem;
+    color: #FFFFFF;
+}
+
+.centre-ending p {
+    margin-bottom: 2.5rem;
+}
+
+.centre-ending span {
+    margin-left: 3.5rem;
+}
+
+.right-ending p {
+    font-size: 1.4rem;
+    color: #FFFFFF;
+    margin-bottom: -15px;
+    margin-right: 1rem;
+}
+
+.right-ending img {
+    margin-top: 2rem;
+    margin-left: -0.6rem;
+}
+.right-ending{
+    text-align: right;
+}
+.last {
+    text-align: center;
+    height: 3rem;
+    font-size: 1.2rem;
+    color: #FFFFFF;
+    line-height: 3rem;
+    border-top: 0.1rem solid #FFFFFF;
+    background: #29B078;
+}
+.one{
+    width: 100%;
+}
+@media (max-width: 768px) {
+	.col-md-4{
+		width: 730px;
+	}
+	.row{
+		width: 730px;
+	}
+    .veil{
+        width: 61.8rem;
+        height: 44.5rem;
+        background: #120e0b;
+        opacity: 0;
+        position: absolute;
+        padding: 8.5rem 4.3rem;
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        transition:all 2s;
+        transform-origin: 50% 0;
+    }
+	.vote-1 p{
+		margin-left: 30px;
+	}
+	.love{
+		margin-left: 20px;
+	}
+	.three{
+		text-align: center;
+	}
+	.aspect{
+		text-align: center;
+	}
+    .centre-ending{
+        margin-top: -10rem;
+    }
+    .centre-ending p{
+        margin-left: 23rem;
+    }
+    .right-ending {
+        margin-top: -13rem;
+    }
+}

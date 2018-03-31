@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.victory {
+  background: #29BDE0;
+}
+.main2 {
+  background: #29BDE0;
+}
+.header {
+  height: 11.6vw;
+  width: 100%;
+  background: #29bde0;
+  border-bottom: 0.1vw solid #e5e5e5;
+}
+.header img {
+  height: 6.3vw;
+  position: relative;
+  top: 2vw;
+  left: 2vw;
+}
+.header p {
+  color: #ffffff;
+  font-size: 4.3vw;
+  position: relative;
+  top: -3.5vw;
+}
+.header .picture {
+  float: right;
+  position: relative;
+  right: 4vw;
+  top: -13vw;
+}
+.victory img {
+  height: 28.19vw;
+  position: relative;
+  top: 3.5vw;
+  left: 25.33vw;
+}
+.main {
+  width: 60%;
+  position: relative;
+  top: 8vw;
+  left: 20.8vw;
+}
+.main span {
+  color: #ffc865;
+  font-size: 4.16vw;
+}
+.menu {
+  background: #29BDE0;
+  padding-top: 13vw;
+}
+.menu p {
+  font-size: 3.4vw;
+  color: #ffffff;
+  margin-right: 1vw;
+}
+.menu .one p {
+  margin-left: 9vw;
+}
+.menu .focus p {
+  margin-right: 20vw;
+}
+.menu .six {
+  background: #29BDE0;
+}
+.menu .six p {
+  margin-right: 26vw;
+}
+.menu .five {
+  background: #ffffff;
+  height: 69vw;
+}
+.menu .five .five1 p {
+  font-size: 4.2vw;
+  color: #000000;
+  position: relative;
+  top: 2vw;
+  margin-left: 18vw;
+}
+.menu .five .lead p {
+  font-size: 3.4vw;
+  color: #5E5E5E;
+  float: right;
+  position: relative;
+  top: -5vw;
+  right: 18vw;
+}
+.menu .five .urse p {
+  color: #000000;
+}
+.menu .five .well1 p {
+  color: #a6a6a6;
+  position: relative;
+  top: 3vw;
+  margin-left: 18vw;
+}
+.menu .five .main1 {
+  border-bottom: 2px solid #E5E5E5;
+  margin-top: 6vw;
+}
+.menu .five .forever {
+  margin-bottom: 270px;
+}
+.menu .five .forever p {
+  font-size: 4.2vw;
+  color: #29BDE0;
+  position: relative;
+  top: 2vw;
+  margin-left: 18vw;
+}
+.menu .five .faqs p {
+  font-size: 3.4vw;
+  color: #29BDE0;
+  float: right;
+  position: relative;
+  top: -5vw;
+  margin-right: 19vw;
+}
+.menu .five .footer {
+  background: #29BDE0;
+  overflow: hidden;
+  position: fixed;
+  z-index: 998;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  word-spacing: 4em;
+  background: rgba(41, 189, 224, 0.5);
+  padding-top: 5vw;
+  padding-bottom: 5vw;
+}
+.menu .five .footer a {
+  color: #000;
+}
+.menu .five .footer .tow {
+  opacity: 1;
+}
+.menu .five .footer .box-2 {
+  width: 37.5vw;
+  height: 12vw;
+  font-size: 4.5vw;
+  background: #F66F6F;
+  vertical-align: middle;
+  border-radius: 1vw;
+  border: 1px;
+}
+.menu .five .footer .box-1 {
+  width: 37.5vw;
+  height: 12vw;
+  font-size: 4.5vw;
+  background: #FBB435;
+  vertical-align: middle;
+  border-radius: 1vw;
+  border: 1px;
+}

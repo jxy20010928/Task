@@ -1,0 +1,185 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  width: 100%;
+  height: 12vw;
+  background: #5fc0cd;
+  padding-top: 1vw;
+  position: fixed;
+  top: 0px;
+}
+.header .employer {
+  width: 35vw;
+  height: 9.72vw;
+  background: #55a8b3;
+  text-align: center;
+  margin: auto;
+  border-radius: 1vw;
+}
+.header .employer span {
+  font-size: 4.12vw;
+  color: #ffffff;
+  line-height: 9.72vw;
+}
+.header .nurse {
+  width: 18vw;
+  height: 9.72vw;
+  background: #ffffff;
+  border-radius: 1vw;
+  float: right;
+}
+.header .nurse span {
+  font-size: 4.12vw;
+  color: #5FC0CD;
+}
+.header .figure img {
+  text-align: right;
+  float: right;
+  margin-top: -8vw;
+  margin-right: 6vw;
+  height: 6.11vw;
+}
+.head {
+  height: 11.25vw;
+  width: 100%;
+  margin-top: 12vw;
+}
+.head .seat {
+  width: 33.33%;
+  height: 10vw;
+  border-right: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+}
+.head .seat select {
+  width: 30vw;
+  height: 9vw;
+  border: none;
+  outline: none;
+  font-size: 4vw;
+  padding-left: 3vw;
+}
+.head .seat select option {
+  font-size: 3vw;
+}
+.head .seat span {
+  font-size: 4vw;
+  color: #999999;
+  padding-right: 13vw;
+  display: inline-block;
+  margin-top: 2vw;
+}
+.head .seat img {
+  margin-top: -2vw;
+}
+.head .one {
+  width: 0vw;
+  height: 9vw;
+  border: 1px #E1E5E7 solid;
+  position: relative;
+  top: -3.3vw;
+  margin-left: 34vw;
+  margin-top: -2vw;
+}
+.head .accommodation {
+  margin-top: -4vw;
+  margin-left: 40vw;
+}
+.head .accommodation span {
+  font-size: 4vw;
+}
+.head .five {
+  width: 0vw;
+  height: 9vw;
+  border: 1px #E1E5E7 solid;
+  position: relative;
+  top: -3.3vw;
+  margin-left: 66vw;
+  margin-top: -6vw;
+}
+.head .situation {
+  margin-top: -4vw;
+  margin-left: 72vw;
+}
+.calendar {
+  margin-top: 2vw;
+  margin-left: 3vw;
+}
+.calendar span {
+  font-size: 3.5vw;
+  color: #999999;
+  margin-left: 4vw;
+}
+.calendar img {
+  height: 3vw;
+  margin-top: -1.5vw;
+}
+.calendar .big {
+  margin-top: 1vw;
+  margin-left: 2vw;
+}
+.calendar .big span {
+  color: #000000;
+}
+.calendar .change {
+  margin-top: -5.1vw;
+  margin-left: 62vw;
+}
+.calendar .change span {
+  color: #E26163;
+}
+.calendar .change img {
+  padding-left: 5vw;
+}
+.calendar .region {
+  margin-top: 1vw;
+}
+.calendar .catch {
+  border: 1px #E1E5E7 solid;
+  margin: 40px 0px 0px -40px;
+}
+.page {
+  width: 100%;
+  height: 13.88vw;
+  background: #f8fafb;
+  border-top: 1px #e2eaec solid;
+}
+.page img {
+  height: 6.25vw;
+  margin-top: 2vw;
+  margin-left: 19vw;
+}
+.page p {
+  font-size: 2vw;
+  color: #5FC0CD;
+  margin-left: 20.6vw;
+  margin-top: 1vw;
+}
+.news {
+  margin-top: -13.5vw;
+  margin-left: 43vw;
+}
+.news img {
+  height: 13vw;
+}
+.own {
+  margin-top: -10.5vw;
+  float: right;
+  margin-right: 19vw;
+}
+.own p {
+  font-size: 2vw;
+  color: #999999;
+  margin-top: 1vw;
+  margin-left: 1.3vw;
+}
+.own img {
+  height: 5.9vw;
+}
+.footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  height: 14vw;
+}

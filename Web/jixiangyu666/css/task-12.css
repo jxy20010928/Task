@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  height: 84px;
+  width: 100%;
+  background: #5FC0CD;
+  position: fixed;
+  top: 0px;
+}
+.header img {
+  color: #00BFFF;
+  position: relative;
+  left: 30px;
+  top: 20px;
+}
+.header h2 {
+  font-size: 33px;
+  color: #ffffff;
+  position: relative;
+  top: -35px;
+}
+.head {
+  height: 330px;
+  width: 100%;
+  background: url(../img/task5-1.png) no-repeat;
+  background-size: 100% auto;
+  margin-top: 5rem;
+}
+.picture {
+  height: 330px;
+  width: 480px;
+  margin-left: 42px;
+  padding-top: 68px;
+}
+.picture img {
+  float: left;
+}
+.picture .introduction {
+  padding-left: 240px;
+  display: block;
+  margin: 31px 0px 0px -36px;
+}
+.picture .introduction span {
+  font-size: 36px;
+  color: #FFFFFF;
+}
+.picture .introduction .introduction .five {
+  padding-left: 30px;
+}
+.picture .forever {
+  float: left;
+  margin: 15px 0px 0px 20px;
+}
+.picture .forever span {
+  padding-left: 20px;
+  font-size: 25px;
+  color: #FFFFFF;
+}
+.picture .forever img {
+  margin-top: 8px;
+}
+.specialty {
+  border-bottom: 1px #e1e5e7 solid;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.specialty span {
+  border-left: 2px solid #5FC0CD;
+  font-size: 38px;
+  margin-left: 66px;
+  padding-left: 40px;
+}
+.main {
+  margin: 31px 0px 0px 118px;
+  font-size: 33px;
+}
+.main .main-1 {
+  border-left: 2px solid #E1E5E7;
+  margin: -44px 0px 0px 117px;
+  padding-left: 20px;
+  font-size: 33px;
+}
+.main .period span {
+  font-size: 33px;
+  color: #999999;
+  position: relative;
+  top: 28px;
+  margin-left: -4px;
+}
+.main .three span {
+  border-left: 2px solid #E1E5E7;
+  position: relative;
+  bottom: 15px;
+  margin-left: 151px;
+  padding-left: 26px;
+  font-size: 33px;
+}
+.main .work span {
+  font-size: 33px;
+  color: #999999;
+  border-right: 2px solid #E1E5E7;
+  padding-right: 26px;
+  position: relative;
+  top: 29px;
+  left: -7px;
+}
+.main .day span {
+  font-size: 33px;
+  margin-left: 181px;
+  position: relative;
+  bottom: 15px;
+}
+.main .change {
+  border: 1px #E1E5E7 solid;
+  margin: 24px 0px 0px -56px;
+}
+.main .price span {
+  font-size: 33px;
+  color: #999999;
+  border-right: 2px solid #E1E5E7;
+  padding-right: 26px;
+  position: relative;
+  top: 31px;
+  left: -6px;
+}
+.main .hour span {
+  font-size: 33px;
+  color: #e26163;
+  margin-left: 185px;
+  position: relative;
+  top: -12px;
+}
+.main .self span {
+  font-size: 33px;
+  color: #999999;
+  margin-left: -7px;
+  position: relative;
+  top: 28px;
+  border-right: 2px #E1E5E7 solid;
+  padding-right: 29px;
+}
+.main .ability {
+  font-size: 29px;
+  position: relative;
+  top: -29px;
+  margin-left: 189px;
+}
+.footer input {
+  border-radius: 15px 15px 15px 15px;
+  border: 2px solid #5FC0CD;
+  background: #FFFFFF;
+  position: fixed;
+  left: 66px;
+  bottom: 33px;
+  outline: none;
+}
+.connection input {
+  position: fixed;
+  left: 53%;
+  bottom: 33px;
+}
